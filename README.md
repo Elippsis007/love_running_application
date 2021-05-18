@@ -9,6 +9,7 @@
 <h1 align="center">Love Running</h1>
 
 [View my website here.](https://elippsis007.github.io/love_running_website/)
+This project and it's HTML & CSS files were taken from my Replit page and imported here.
 
 <hr>
 
